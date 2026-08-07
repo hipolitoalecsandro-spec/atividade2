@@ -3,6 +3,6 @@ body {
     font-size: 20px;
     box-sizing: border-box;
     color: rgb(36, 0, 0);
-    box-shadow: inset color(srgb red green blue);
+    box-shadow:rgba(45, 113, 240, 0.644)
                 
 }
