@@ -1,7 +1,5 @@
-body {
-    background-color: rgba(41, 211, 241, 0.644);
-    font-size: 20px;
-    box-sizing: border-box;
-    color: rgb(35, 77, 85);
-                
+* {
+    margin: 0
+    paddimg: 0
+    box-sizing: border-box
 }
