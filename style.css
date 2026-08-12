@@ -19,7 +19,6 @@ body {
     border-bottom: 3px solid rgba(37, 192, 212, 0.767);
     padding-bottom: 40px;
     text-align: center;
-     display: flex;
     align-items: center;     /* Centraliza na vertical */
     height: 40px;  
 
