@@ -25,7 +25,7 @@ body {
 .img-banner {
          width: 100%; /* Ocupa toda a largura da tela */
          height: 180px; /* Altura fixa */
-         object-fit: cover; /* Impede que a imagem fique esticada ou esmagada */
+         
 }
 
 /* CONTAINER DE INFORMAÇÕES */
