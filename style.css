@@ -40,7 +40,7 @@ body {
           height: 130px;
           object-fit: cover;
           border-radius: 50%; /* O TRUQUE: Transforma o quadrado num círculo perfeito! */
-          border: 3px solid #38bdf8; /* Borda azul em volta da foto */
+          border: 3px solid rgb(0, 204, 255); /* Borda azul em volta da foto */
           margin-top: -65px; /* Sobe a foto para sobrepor o banner */
           background-color: #1e293b;
 }
