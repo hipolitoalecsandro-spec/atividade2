@@ -8,6 +8,8 @@
 body {
     font-family: Impact, Haettenschweiler, sans-serif;
     background-color: rgba(8, 205, 231, 0.836);
+    border-bottom: 1px solid rgba(11, 93, 104, 0.651);
+    box-shadow: 0 0 20px rgba(250, 250, 250, 0.770);
     color :rgb(1, 26, 23);
     line-height: 1,5 ;
 
