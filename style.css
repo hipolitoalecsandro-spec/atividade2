@@ -43,7 +43,7 @@ body {
           border: 1px solid rgb(0, 0, 0); /* Borda azul em volta da foto */
           margin-top: -65px; /* Sobe a foto para sobrepor o banner */
           background-color: #1e293b;
-          box-shadow: 0 0 20px rgba(250, 250, 250, 0.781); /* Sombra branca adicionada aqui */
+          box-shadow: 0 0 30px rgba(250, 250, 250, 0.781); /* Sombra branca adicionada aqui */
 }
 
 
