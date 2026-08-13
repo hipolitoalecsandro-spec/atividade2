@@ -20,3 +20,39 @@ body {
     padding-bottom: 35px;
     text-align: center;
  }
+
+ /* IMAGEM DE CAPA (BANNER) */
+.img-banner {
+         width: 100%; /* Ocupa toda a largura da tela */
+         height: 180px; /* Altura fixa */
+         object-fit: cover; /* Impede que a imagem fique esticada ou esmagada */
+}
+
+/* CONTAINER DE INFORMAÇÕES */
+.perfil-container {
+          text-align: center; /* Centraliza o nome e a biografia */
+          padding: 0 20px;
+}
+
+/* FOTO DE PERFIL CIRCULAR */
+.img-perfil {
+          width: 130px;
+          height: 130px;
+          object-fit: cover;
+          border-radius: 50%; /* O TRUQUE: Transforma o quadrado num círculo perfeito! */
+          border: 4px solid #38bdf8; /* Borda azul em volta da foto */
+          margin-top: -65px; /* Sobe a foto para sobrepor o banner */
+          background-color: #1e293b;
+}
+
+/* TÍTULO E PARÁGRAFO */
+h1 {
+       color: #38bdf8;
+       margin-top: 12px;
+       font-size: 1.8rem;
+}
+p {
+       color: #94a3b8;
+       font-size: 1rem;
+       margin-top: 4px;
+}  
