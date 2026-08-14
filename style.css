@@ -94,6 +94,6 @@ p {
 
 /* 4. Efeito de interação ao passar o mouse (:hover) */
 .btn:hover {
-    transform: translateY(-3px); /* Faz o botão dar uma leve "subidinha" */
+    transform: translateY(3px); /* Faz o botão dar uma leve "subidinha" */
     opacity: 0.9;                /* Dá um leve brilho/transparência ao passar o mouse */
 }
