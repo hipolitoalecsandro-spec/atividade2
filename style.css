@@ -79,7 +79,7 @@ p {
     font-weight: 600;           /* Deixa o texto do botão levemente em negrito */
     font-size: 0.9rem;
     color: #ffffff;             /* Cor do texto do botão */
-    transition: all 0.3s ease;  /* Suaviza a animação de passar o mouse */
+    transition: all 0.4s ease;  /* Suaviza a animação de passar o mouse */
 }
 
 /* 3. Cores específicas de cada rede social */
@@ -94,6 +94,6 @@ p {
 
 /* 4. Efeito de interação ao passar o mouse (:hover) */
 .btn:hover {
-    transform: translateY(-2px); /* Faz o botão dar uma leve "subidinha" */
+    transform: translateY(-3px); /* Faz o botão dar uma leve "subidinha" */
     opacity: 0.9;                /* Dá um leve brilho/transparência ao passar o mouse */
 }
